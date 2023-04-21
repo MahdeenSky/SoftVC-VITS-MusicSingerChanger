@@ -13,3 +13,5 @@ The singing voice conversion model uses SoftVC content encoder to extract source
 https://github.com/svc-develop-team/so-vits-svc
 
 https://www.youtube.com/@PluggingAI
+
+https://huggingface.co/therealvul
